@@ -118,4 +118,4 @@ int main() {
 
     return 0;
 }
-//в мене чомусь не працює программа через strcpy(
+//ne rabotaet strcpy pochemuto(
